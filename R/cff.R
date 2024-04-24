@@ -21,8 +21,3 @@ use_cff <- function() {
         "_" = "Edit `CITATION.cff``. (see {.url https://book.the-turing-way.org/communication/citable/citable-cffinit.html} and {.url https://citation-file-format.github.io/cff-initializer-javascript/#/})."
     ))
 }
-## CM-notes
-# Should create a blank CFF
-# Should prompt
-#> ✔ Writing '???/citation.cff'.
-# ☐ Edit '???/citation.cff'. (see <https://book.the-turing-way.org/communication/citable/citable-cffinit.html> and <https://citation-file-format.github.io/cff-initializer-javascript/#/>)
