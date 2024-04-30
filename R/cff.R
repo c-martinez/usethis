@@ -18,6 +18,6 @@ use_cff <- function() {
     )
 
     ui_bullets(c(
-        "_" = "Edit `CITATION.cff``. (see {.url https://book.the-turing-way.org/communication/citable/citable-cffinit.html} and {.url https://citation-file-format.github.io/cff-initializer-javascript/#/})."
+        "_" = "Edit `CITATION.cff` (see {.url https://book.the-turing-way.org/communication/citable/citable-cffinit.html} and {.url https://citation-file-format.github.io/cff-initializer-javascript/#/})."
     ))
 }
